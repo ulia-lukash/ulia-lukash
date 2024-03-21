@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Uliana (but you can call me Uli) and I'm a web-developer (and an aspiring iOS developer), from Moscow</h2>
+<h2 align="left">Hi 👋! My name is Uliana (but you can call me Uli) and I'm an aspiring iOS developer from Moscow</h2>
+<caption><i>Web-developr by day, iOS developer by night</i></caption>
 
 ###
 
