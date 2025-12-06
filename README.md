@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Uliana (but you can call me Uli)</h2>
-<caption><i>Web-developr by day, iOS developer by night</i></caption>
+<!-- <caption><i>Web-developr by day, iOS developer by night</i></caption> -->
 
 ###
 
